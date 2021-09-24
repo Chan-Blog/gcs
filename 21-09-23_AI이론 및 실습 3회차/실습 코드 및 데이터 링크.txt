@@ -1,0 +1,8 @@
+텍스트 데이터 분석 실습 데이터 링크
+https://www.dropbox.com/s/i7g4t9ky7dq8kwb/data_dumped.pickle?dl=0
+
+sklearn 기초 연습
+https://drive.google.com/file/d/1jijRUyLdy74V58FIZoO_tXR__RP1hD6l/view?usp=sharing
+
+텍스트 데이터 분석 및 과제
+https://colab.research.google.com/drive/1U49zxchRWuOOLVZ5h801unxMFw2AWon7?usp=sharing
